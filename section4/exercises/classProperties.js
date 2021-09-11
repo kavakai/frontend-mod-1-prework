@@ -52,7 +52,7 @@ console.log(fit);
   // Create an object instance and store in variable
   // Log that variable to the console.
 
- Prompt 1: Dog
+ //Prompt 1: Dog
 class Dog{
   constructor() {
     this.breed = "Labrador retriever";
